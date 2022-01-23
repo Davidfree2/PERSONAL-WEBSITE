@@ -1,0 +1,19 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+}
+
+html, body {
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
