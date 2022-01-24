@@ -272,7 +272,7 @@
 
         .contactText button {
             margin: .5rem;
-            font-size: 80%;
+            font-size: 70%;
             text-align: center;
         }
 

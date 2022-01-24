@@ -5,12 +5,12 @@
     <div class='aboutContainer'>
         <div class='helloWorld'>
             <h1>Nice to meet you! Let me tell you about myself.</h1>
-            <h2>My name is David Esquerra. And i am a full stack software engineer. I started my journey two years ago when i first discovered python (my first programming language). I immediatly fell in love with programming and building things from complete scratch. After learning python i decided to learn javascript, html , and css to bring my ideas to life with public web apps!.</h2>
-            <span>(see porfolio for all these projects)</span>
+            <h2>My name is David Esquerra and i am a full stack software engineer. I started my journey two years ago when i first discovered python (my first programming language). I immediatly fell in love with programming and building things from complete scratch. After learning python i decided to learn javascript, html, and css to bring my ideas to life with public web apps!.</h2>
+            <span><a href='#Experience' >see projects down below</a></span>
         </div>
         <div class='SideContainer'>
             <h1>What you'll find down below.</h1>
-            <h2>Down below you'll find all the skills i have and a few highlight projects that ive created myself. Thank you for looking at my resume. And hopefully i get the oppurtunity to be considered by you.</h2>
+            <h2>Down below you'll find all the skills i have and a few highlight projects that i've created myself. Thank you for looking at my resume. Hopefully i get the oppurtunity to be considered by you.</h2>
             <h2>Also you can download my resume PDF file here.</h2>
             <div class='SideBottom'>
                 <div class='resume'>
@@ -81,6 +81,11 @@
         color: white;
     }
 
+    .helloWorld a {
+        color: blue;
+        font-size: 1.4rem;
+    }
+
     @media screen and (max-width: 1250px) {
 
     .container {
@@ -140,6 +145,11 @@
         font-weight: bolder;
         text-decoration: none;
         color: white;
+    }
+
+    .helloWorld a {
+        color: blue;
+        font-size: 1.3rem;
     }
     
     }
