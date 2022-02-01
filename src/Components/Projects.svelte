@@ -11,7 +11,7 @@
             <h2>Sign Up or Login. Save contact information. No need to log back in with Cookies!</h2>
             <h3>Signup or Login. Create an account and starting saving your contact information for free today. We support cookies so you dont have to login everytime and with a secure backend running mongodb your contacts are safe and secure.</h3> 
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, MongoDB, Cookies, CookieParser, Cors, JSON, RESTFUL Api, React, React-Router,</h5>
+            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, MongoDB, Cookies, CookieParser, Cors, JSON, RESTFUL Api, React, React-Router, AWS</h5>
         </div>
     </div>
     <div class='project2'>
@@ -20,7 +20,7 @@
             <h2>Website Search Engine</h2>
             <h3>Dont want to use google or bing? Look no further with Ka-Plink.Ka-Plink is a search engine just into the search bar and find popular results in seconds!</h3> 
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, cors, JSON, google Api, RestFul Api, React, React router</h5>
+            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, cors, JSON, google Api, RestFul Api, React, React router, AWS</h5>
         </div>
         <div class='image2'>
             <img src='/Images/Projects/kaplinkPhone.png' />
@@ -35,7 +35,7 @@
             <h2>Desktop and Website Joke App</h2>
             <h3>Ever wanted to hear an unlimted amount of terrible jokes? Well with TerribleJoke you can load a terrible and reload another whenever you want! Keep the terrible jokes coming!</h3> 
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, nodejs, express, flex-box, fetch, JSON, Restful Api, electron, svelte</h5>
+            <h5>Html, Css, Javascript, nodejs, express, flex-box, fetch, JSON, Restful Api, electron, svelte, AWS</h5>
         </div>
     </div>
     <div class='project4'>
@@ -44,7 +44,7 @@
             <h2>Calculate Expenses with YourDollar Web App</h2>
             <h3>Add up your expenses, subtract them from your income. see them added to a pie chart. Figure out what your expense to income ratio's are. Easily compare costs with Real Time pieChart and BarGraph.</h3> 
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, Restful Api, JSON, graph Api, google icons, React</h5>
+            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, Restful Api, JSON, graph Api, google icons, React, AWS</h5>
         </div>
         <div class='image4'>
             <img src='/Images/Projects/financeTracker.png' />
@@ -68,7 +68,7 @@
             <h2>Scroll through images from our database using our Api, then save them!</h2>
             <h3>Look at images of cool cars. Click next or back to find the one you want. Then hit the download button to download the image!</h3> 
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, JSON, nodejs, express, flex-box, google icons, svelte, PostgreSQL, python web-scraping,pyton BeautifulSoup, python Psycopg, node postgres, custom API, electron, svelte</h5>
+            <h5>Html, Css, Javascript, JSON, nodejs, express, flex-box, google icons, svelte, PostgreSQL, python web-scraping,pyton BeautifulSoup, python Psycopg, node postgres, custom API, electron, svelte, AWS</h5>
         </div>
         <div class='image6'>
             <img src='/Images/Projects/photoGallery.png' />
