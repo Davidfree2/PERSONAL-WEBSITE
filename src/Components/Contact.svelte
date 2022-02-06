@@ -26,7 +26,7 @@
         const userEmail = await email;
         const userMessage = await message;
 
-        const url = await 'http://192.168.254.17:8080/emailInfo';
+        const url = await 'http://18.211.187.190:8080/emailInfo';
 
         const options = await {
             method: 'post',
