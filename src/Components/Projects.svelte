@@ -10,6 +10,10 @@
             <h1>Contacts Web App</h1>
             <h2>Sign Up or Login. Save contact information. No need to log back in with Cookies!</h2>
             <h3>Signup or Login. Create an account and starting saving your contact information for free today. We support cookies so you dont have to login everytime and with a secure backend running mongodb your contacts are safe and secure.</h3> 
+                <div class='links'>
+                    <button><a href=''>Live site</a></button>
+                    <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/phone-book'>Github</a></button>
+                </div>
             <h4>Technologies Used</h4>
             <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, MongoDB, Cookies, CookieParser, Cors, JSON, RESTFUL Api, React, React-Router, AWS</h5>
         </div>
@@ -19,6 +23,10 @@
             <h1>Ka-Plink Search Engine</h1>
             <h2>Website Search Engine</h2>
             <h3>Dont want to use google or bing? Look no further with Ka-Plink.Ka-Plink is a search engine just into the search bar and find popular results in seconds!</h3> 
+                <div class='links'>
+                    <button><a href=''>Live site</a></button>
+                    <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/search-engine'>Github</a></button>
+                </div>
             <h4>Technologies Used</h4>
             <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, cors, JSON, google Api, RestFul Api, React, React router, AWS</h5>
         </div>
@@ -34,6 +42,10 @@
             <h1>TerribleJoke Desktop</h1>
             <h2>Desktop and Website Joke App</h2>
             <h3>Ever wanted to hear an unlimted amount of terrible jokes? Well with TerribleJoke you can load a terrible and reload another whenever you want! Keep the terrible jokes coming!</h3> 
+                <div class='links'>
+                    <button><a href=''>Live site</a></button>
+                    <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/joke-app'>Github</a></button>
+                </div>
             <h4>Technologies Used</h4>
             <h5>Html, Css, Javascript, nodejs, express, flex-box, fetch, JSON, Restful Api, electron, svelte, AWS</h5>
         </div>
@@ -43,6 +55,10 @@
             <h1>YourDollars</h1>
             <h2>Calculate Expenses with YourDollar Web App</h2>
             <h3>Add up your expenses, subtract them from your income. see them added to a pie chart. Figure out what your expense to income ratio's are. Easily compare costs with Real Time pieChart and BarGraph.</h3> 
+                <div class='links'>
+                    <button><a href=''>Live site</a></button>
+                    <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/finance-tracker'>Github</a></button>
+                </div>
             <h4>Technologies Used</h4>
             <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, Restful Api, JSON, graph Api, google icons, React, AWS</h5>
         </div>
@@ -52,26 +68,33 @@
     </div>
     <div class='project5'>
         <div class='image5'>
-            <img src='/Images/Projects/dataHub.png' />
+            <img src='/Images/Projects/photoGallery.png' />
         </div>
         <div class='text5'>
-            <h1>DataHub</h1>
-            <h2>Save Images from any device onto a single device on your local network</h2>
-            <h3>Using your local network save any file to a single device on your local network. I use this as a central data saving hub using a RaspberryPi. </h3> 
+            <h1>CarGallery Downloader</h1>
+            <h2>Scroll through images from our database using our Api, then save them!</h2>
+            <h3>Look at images of cool cars. Click next or back to find the one you want. Then hit the download button to download the image!</h3> 
+                <div class='links'>
+                    <button><a href=''>Live site</a></button>
+                    <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/photo-gallary'>Github</a></button>
+                </div>
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, JSON, nodejs, express, body-parser, flex-box, google icons, eventListener, RaspberryPi, Multer, MultiPart form data, python http.server, python-multi-threading</h5>
+            <h5>Html, Css, Javascript, JSON, nodejs, express, flex-box, google icons, svelte, PostgreSQL, python web-scraping,pyton BeautifulSoup, python Psycopg, node postgres, custom API, electron, svelte, AWS</h5>
         </div>
     </div>
     <div class='project6'>
         <div class='text6'>
-            <h1>CarGallery Downloader</h1>
-            <h2>Scroll through images from our database using our Api, then save them!</h2>
-            <h3>Look at images of cool cars. Click next or back to find the one you want. Then hit the download button to download the image!</h3> 
+            <h1>DataHub</h1>
+            <h2>Save Images from any device onto a single device on your local network</h2>
+            <h3>Using your local network save any file to a single device on your local network. I use this as a central data saving hub using a RaspberryPi. </h3> 
+                <div class='links'>
+                    <button><a target='_blank' href='https://github.com/Davidfree2/NODEJS-PYTHON/tree/master/data-hub'>Github</a></button>
+                </div>
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, JSON, nodejs, express, flex-box, google icons, svelte, PostgreSQL, python web-scraping,pyton BeautifulSoup, python Psycopg, node postgres, custom API, electron, svelte, AWS</h5>
+            <h5>Html, Css, Javascript, JSON, nodejs, express, body-parser, flex-box, google icons, eventListener, RaspberryPi, Multer, MultiPart form data, python http.server, python-multi-threading</h5>
         </div>
         <div class='image6'>
-            <img src='/Images/Projects/photoGallery.png' />
+            <img src='/Images/Projects/dataHub.png' />
         </div>
     </div>
     <div class='project7'>
@@ -82,6 +105,9 @@
             <h1>Terminal Stocks</h1>
             <h2>Look up stocks by ticker name!</h2>
             <h3>Type in the name of a ticker from a stock. Get all of yahoo's stock information within seconds on your terminal! Make it executable in linux and run the command from anywhere!</h3> 
+                <div class='links'>
+                    <button><a target='_blank' href='https://github.com/Davidfree2/PYTHON/tree/master/terminal-stocks'>Github</a></button>
+                </div>
             <h4>Technologies Used</h4>
             <h5>python, BeautifulSoup4, Requests, Linux, chmod, sys, system Argvs, Bash ShaBang</h5>
         </div>
@@ -91,6 +117,9 @@
             <h1>Python System Notifications</h1>
             <h2>Get the top news headline with system notifications</h2>
             <h3>Get notified when breaking news hits, or get the main headline hourly! Get the top headline in notification form using this python application.</h3> 
+                <div class='links'>
+                    <button><a target='_blank' href='https://github.com/Davidfree2/PYTHON/tree/master/news-notificatons'>Github</a></button>
+                </div>
             <h4>Technologies Used</h4>
             <h5>python, BeautifulSoup4, Requests, Linux, chmod, notify2</h5>
         </div>
@@ -106,6 +135,9 @@
             <h1>Command Line Todo list</h1>
             <h2>Command line todo list. Save todos with MongoDB</h2>
             <h3>Save todos, check on todos, delete and create todos. Everything is backed up with MongoDB so everything is saved forever!</h3> 
+                <div class='links'>
+                    <button><a target='_blank' href=''>Github</a></button>
+                </div>
             <h4>Technologies Used</h4>
             <h5>python, Linux, chmod, MongoDB, System arguments, colorama</h5>
         </div>
@@ -115,6 +147,9 @@
             <h1>Encrypt/Decrypt</h1>
             <h2>Create Encrypted messages, then Decrypt them with a special key!</h2>
             <h3>Create random encrypted strings. or use your own string to encrypt. Using symmetric encyption. Encrypt any text. then Decrypt it with the key provided!</h3> 
+                <div class='links'>
+                    <button><a target='_blank' href='https://github.com/Davidfree2/PYTHON/tree/master/crypography-machine'>Github</a></button>
+                </div>
             <h4>Technologies Used</h4>
             <h5>python, colorama, input, cryptography, fernet, random</h5>
         </div>
@@ -133,7 +168,7 @@
     .container > div {
         display: flex;
         justify-content: space-around;
-        height: 80vh;
+        height: 85vh;
     }
 
     .container > div > div:nth-child(1) {
@@ -141,7 +176,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        width: 45%;
+        width: 47%;
         text-align: center;
     }
     
@@ -150,7 +185,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        width: 45%;
+        width: 47%;
         text-align: center;
     }
 
@@ -160,38 +195,68 @@
 
     h1 {
         text-transform: capitalize;
-        font-size: 3.2rem;
+        font-size: 2.8rem;
         margin-bottom: .5rem;
         text-decoration: underline;
     }
 
     h2 {
-        font-size: 2.3rem;
+        font-size: 2rem;
         margin-bottom: 1.2rem;
     }
 
     h3 {
-        font-size: 2rem;
+        font-size: 1.9rem;
         font-weight: lighter;
         padding: 0rem 2.3rem 0rem 2.3rem;
     }
 
     h4 {
         text-decoration: underline;
-        margin-top: 1.8rem;
-        font-size: 2.4rem;
+        margin-top: .5rem;
+        font-size: 2.3rem;
     }
 
     h5 {
         text-transform: capitalize;
         margin-top: 1rem;
         padding: 0rem 2.3rem 0rem 2.3rem;
-        font-size: 2rem;
+        font-size: 1.8rem;
         margin-bottom: 4rem;
         font-weight: lighter;
     }
 
-    @media screen and (max-width: 1250px) {
+    button {
+        padding: .7rem 1.8rem .7rem 1.8rem;
+        border: none;
+        font-weight: bolder;
+        font-size: 1.4rem;
+        background-color: #0468d7;
+        border-radius: 50px;
+        color: white;
+        margin: 1rem 0rem 1rem 0rem;
+    }
+
+    button:hover {
+        background-color: blue;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    .links {
+        margin: 1rem;
+        display: flex;
+        flex-direction: row;
+        width: 50%;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+
+    @media screen and (max-width: 1310px) {
         .container {
             background-image: linear-gradient(#f8f9fa, #f8f9fa, #f8f9fa, #f8f9fa,white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, rgba(35, 113, 213, .45));
         }
@@ -233,7 +298,7 @@
     
         h2 {
             font-size: 1.6rem;
-            margin-bottom: 1.2rem;
+            margin-bottom: .7rem;
         }
     
         h3 {
@@ -244,13 +309,13 @@
     
         h4 {
             text-decoration: none;
-            margin-top: 1.8rem;
+            margin-top: .3rem;
             font-size: 1.8rem;
         }
     
         h5 {
             text-transform: capitalize;
-            margin-top: 1rem;
+            margin-top: .7rem;
             padding: 0rem 2.3rem 0rem 2.3rem;
             font-size: 1.55rem;
             margin-bottom: .5rem;
@@ -307,6 +372,35 @@
             flex-direction: column-reverse;
         }
 
-    }
+        button {
+            padding: .5rem 1.5rem .5rem 1.5rem;
+            border: none;
+            font-weight: bolder;
+            font-size: 1.4rem;
+            background-color: #0468d7;
+            border-radius: 50px;
+            color: white;
+            margin: .3rem 0rem .3rem 0rem;
+        }
+    
+        button:hover {
+            background-color: blue;
+        }
+    
+        a {
+            text-decoration: none;
+            color: white;
+            font-size: 1.3rem;
+        }
+    
+        .links {
+            margin: 1rem;
+            display: flex;
+            flex-direction: column;
+            width: 50%;
+            justify-content: space-around;
+            align-items: center;
+        }
+}
 
 </style>
