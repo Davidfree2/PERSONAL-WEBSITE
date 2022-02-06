@@ -24,7 +24,7 @@
             <h2>Website Search Engine</h2>
             <h3>Dont want to use google or bing? Look no further with Ka-Plink.Ka-Plink is a search engine just into the search bar and find popular results in seconds!</h3> 
                 <div class='links'>
-                    <button><a href=''>Live site</a></button>
+                    <button><a target='_blank' href='http://18.211.187.190:8082/'>Live site</a></button>
                     <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/search-engine'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
@@ -43,7 +43,7 @@
             <h2>Desktop and Website Joke App</h2>
             <h3>Ever wanted to hear an unlimted amount of terrible jokes? Well with TerribleJoke you can load a terrible and reload another whenever you want! Keep the terrible jokes coming!</h3> 
                 <div class='links'>
-                    <button><a href=''>Live site</a></button>
+                    <button><a target='_blank' href='http://18.211.187.190:8081/'>Live site</a></button>
                     <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/joke-app'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
@@ -56,7 +56,7 @@
             <h2>Calculate Expenses with YourDollar Web App</h2>
             <h3>Add up your expenses, subtract them from your income. see them added to a pie chart. Figure out what your expense to income ratio's are. Easily compare costs with Real Time pieChart and BarGraph.</h3> 
                 <div class='links'>
-                    <button><a href=''>Live site</a></button>
+                    <button><a target='_blank' href='http://18.211.187.190:8083/'>Live site</a></button>
                     <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/finance-tracker'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
