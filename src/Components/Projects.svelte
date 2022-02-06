@@ -75,7 +75,7 @@
             <h2>Scroll through images from our database using our Api, then save them!</h2>
             <h3>Look at images of cool cars. Click next or back to find the one you want. Then hit the download button to download the image!</h3> 
                 <div class='links'>
-                    <button><a href=''>Live site</a></button>
+                    <button><a target='_blank' href='http://18.211.187.190:8084/'>Live site</a></button>
                     <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/photo-gallary'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
