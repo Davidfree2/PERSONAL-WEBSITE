@@ -11,7 +11,7 @@
             <h2>Sign Up or Login. Save contact information. No need to log back in with Cookies!</h2>
             <h3>Signup or Login. Create an account and starting saving your contact information for free today. We support cookies so you dont have to login everytime and with a secure backend running mongodb your contacts are safe and secure.</h3> 
                 <div class='links'>
-                    <button><a href=''>Live site</a></button>
+                    <button><a target='_blank' href='http://18.211.187.190:8085/'>Live site</a></button>
                     <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/phone-book'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
