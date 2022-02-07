@@ -151,6 +151,7 @@
         }
     
         .dropdown button {
+            color: black;
             width: 100%;
             border: none;
             border-radius: 10px;

@@ -212,7 +212,7 @@
         }
     
         button:hover {
-            background-color: #0468d7;
+            background-color: white;
         }
     
         .contacts {
@@ -240,7 +240,7 @@
         }
     
         .contacts button:hover {
-            background-color: #0468d7;
+            background-color: white;
         }
     
     

@@ -15,20 +15,20 @@
                     <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/phone-book'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, MongoDB, Cookies, CookieParser, Cors, JSON, RESTFUL Api, React, React-Router, AWS</h5>
+            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, MongoDB, Cookies, CookieParser, Cors, JSON, RESTFUL Api, React, React-Router, AWS Ec2</h5>
         </div>
     </div>
     <div class='project2'>
         <div class='text2'>
             <h1>Ka-Plink Search Engine</h1>
             <h2>Website Search Engine</h2>
-            <h3>Dont want to use google or bing? Look no further with Ka-Plink.Ka-Plink is a search engine just into the search bar and find popular results in seconds!</h3> 
+            <h3>Dont want to use google or bing? Look no further with Ka-Plink.Ka-Plink is a search engine. Type a keyword into the search bar and find popular results in seconds!</h3> 
                 <div class='links'>
                     <button><a target='_blank' href='http://18.211.187.190:8082/'>Live site</a></button>
                     <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/search-engine'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, cors, JSON, google Api, RestFul Api, React, React router, AWS</h5>
+            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, cors, JSON, google Api, RestFul Api, React, React router, AWS Ec2</h5>
         </div>
         <div class='image2'>
             <img src='/Images/Projects/kaplinkPhone.png' />
@@ -47,7 +47,7 @@
                     <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/joke-app'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, nodejs, express, flex-box, fetch, JSON, Restful Api, electron, svelte, AWS</h5>
+            <h5>Html, Css, Javascript, nodejs, express, flex-box, fetch, JSON, Restful Api, electron, svelte, AWS Ec2</h5>
         </div>
     </div>
     <div class='project4'>
@@ -60,7 +60,7 @@
                     <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/finance-tracker'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, Restful Api, JSON, graph Api, google icons, React, AWS</h5>
+            <h5>Html, Css, Javascript, nodejs, express, body-parser, flex-box, fetch, Restful Api, JSON, graph Api, google icons, React, AWS Ec2</h5>
         </div>
         <div class='image4'>
             <img src='/Images/Projects/financeTracker.png' />
@@ -73,20 +73,20 @@
         <div class='text5'>
             <h1>CarGallery Downloader</h1>
             <h2>Scroll through images from our database using our Api, then save them!</h2>
-            <h3>Look at images of cool cars. Click next or back to find the one you want. Then hit the download button to download the image!</h3> 
+            <h3>Look at images of cool cars from a postgresql database. Click next or back to find the one you want. Then hit the download button to download the image!</h3> 
                 <div class='links'>
                     <button><a target='_blank' href='http://18.211.187.190:8084/'>Live site</a></button>
                     <button><a target='_blank' href='https://github.com/Davidfree2/FULL-STACK-WEB/tree/master/photo-gallary'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
-            <h5>Html, Css, Javascript, JSON, nodejs, express, flex-box, google icons, svelte, PostgreSQL, python web-scraping,pyton BeautifulSoup, python Psycopg, node postgres, custom API, electron, svelte, AWS</h5>
+            <h5>Html, Css, Javascript, JSON, nodejs, express, flex-box, google icons, svelte, PostgreSQL, python web-scraping,pyton BeautifulSoup, python Psycopg, node postgres, custom API, electron, svelte, AWS Ec2</h5>
         </div>
     </div>
     <div class='project6'>
         <div class='text6'>
             <h1>DataHub</h1>
             <h2>Save Images from any device onto a single device on your local network</h2>
-            <h3>Using your local network save any file to a single device on your local network. I use this as a central data saving hub using a RaspberryPi. </h3> 
+            <h3>Using your local network save any file to a single device. Save images, text files, videos, any file will do! Use this as a central data saving hub using a RaspberryPi. </h3> 
                 <div class='links'>
                     <button><a target='_blank' href='https://github.com/Davidfree2/NODEJS-PYTHON/tree/master/data-hub'>Github</a></button>
                 </div>
@@ -104,7 +104,7 @@
         <div class='text7'>
             <h1>Terminal Stocks</h1>
             <h2>Look up stocks by ticker name!</h2>
-            <h3>Type in the name of a ticker from a stock. Get all of yahoo's stock information within seconds on your terminal! Make it executable in linux and run the command from anywhere!</h3> 
+            <h3>Type in the name of a ticker from a stock. Get all of your favorite stock information within seconds on your terminal! Make it executable in linux and run the command from anywhere!</h3> 
                 <div class='links'>
                     <button><a target='_blank' href='https://github.com/Davidfree2/PYTHON/tree/master/terminal-stocks'>Github</a></button>
                 </div>
@@ -114,7 +114,7 @@
     </div>
     <div class='project8'>
         <div class='text8'>
-            <h1>Python System Notifications</h1>
+            <h1>Python System News Notifications</h1>
             <h2>Get the top news headline with system notifications</h2>
             <h3>Get notified when breaking news hits, or get the main headline hourly! Get the top headline in notification form using this python application.</h3> 
                 <div class='links'>
