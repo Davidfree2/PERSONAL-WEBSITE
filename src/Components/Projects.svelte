@@ -136,7 +136,7 @@
             <h2>Command line todo list. Save todos with MongoDB</h2>
             <h3>Save todos, check on todos, delete and create todos. Everything is backed up with MongoDB so everything is saved forever!</h3> 
                 <div class='links'>
-                    <button><a target='_blank' href=''>Github</a></button>
+                    <button><a target='_blank' href='https://github.com/Davidfree2/PYTHON-MONGODB/tree/master/todo-list'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
             <h5>python, Linux, chmod, MongoDB, System arguments, colorama</h5>
@@ -148,7 +148,7 @@
             <h2>Create Encrypted messages, then Decrypt them with a special key!</h2>
             <h3>Create random encrypted strings. or use your own string to encrypt. Using symmetric encyption. Encrypt any text. then Decrypt it with the key provided!</h3> 
                 <div class='links'>
-                    <button><a target='_blank' href='https://github.com/Davidfree2/PYTHON/tree/master/crypography-machine'>Github</a></button>
+                    <button><a target='_blank' href='https://github.com/Davidfree2/PYTHON/tree/master/encrypt-decrypt'>Github</a></button>
                 </div>
             <h4>Technologies Used</h4>
             <h5>python, colorama, input, cryptography, fernet, random</h5>
