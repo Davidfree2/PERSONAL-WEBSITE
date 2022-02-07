@@ -9,7 +9,7 @@ const mailer = require('./nodeMailer/index.js');
 
 //server init
 const app = express();
-const port = 8080;
+const port = 80;
 
 //npm module inits
 app.use(cors());
