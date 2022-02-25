@@ -20,39 +20,44 @@
     }
 
     let submitInfo = async()=>{
-        preSubmit = 'loading...';
-        const userName = await name;
-        const userCompany = await company;
-        const userEmail = await email;
-        const userMessage = await message;
-
-        const url = await 'http://18.211.187.190:80/emailInfo';
-
-        const options = await {
-            method: 'post',
-            credentials: 'omit',
-            headers: {
-                'Accept': 'application/json',
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-                emailName: userName,
-                emailCompany: userCompany,
-                emailEmail: userEmail,
-                emailMessage: userMessage,
-            }),
+        if (email && message){
+            preSubmit = 'loading...';
+            const userName = await name;
+            const userCompany = await company;
+            const userEmail = await email;
+            const userMessage = await message;
+    
+            const url = await 'http://18.211.187.190:80/emailInfo';
+    
+            const options = await {
+                method: 'post',
+                credentials: 'omit',
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    emailName: userName,
+                    emailCompany: userCompany,
+                    emailEmail: userEmail,
+                    emailMessage: userMessage,
+                }),
+            }
+    
+            const fetching = await fetch(url, options);
+            const res = await fetching.json();
+            const code = await res.code;
+            if (code == 'success') {
+                submitButton.style.backgroundColor = '#27f5dd';
+                preSubmit = 'Sent Successfully!';
+            } else {
+                submitButton.style.backgroundColor = '#ff8686';
+                preSubmit = 'error!';
+                alert('There was an error sending :( Try Contacting me throught the gmail below instead :)');
+            }
         }
-
-        const fetching = await fetch(url, options);
-        const res = await fetching.json();
-        const code = await res.code;
-        if (code == 'success') {
-            submitButton.style.backgroundColor = '#27f5dd';
-            preSubmit = 'Sent Successfully!';
-        } else {
-            submitButton.style.backgroundColor = '#ff8686';
-            preSubmit = 'error!';
-            alert('There was an error sending :( Try Contacting me throught the gmail below instead :)');
+        else {
+            alert('Oops! Please type in at least a message and email');
         }
     }
 
@@ -76,7 +81,7 @@
 
 <style>
     .container {
-        background-image: linear-gradient(rgba(35, 113, 213, .45), rgba(35, 113, 213, 1));
+        background-image: linear-gradient(rgba(35, 113, 213, .2), rgba(35, 113, 213, 1));
         width: 100vw;
         height: 100vh;
         display: flex;
@@ -93,6 +98,7 @@
 
     .contactText h1 {
         margin-bottom: 2rem;
+        text-shadow: 0px 1px 4px #3b3b3b;
     }
 
     button {
@@ -121,6 +127,7 @@
     .contacts h1 {
         margin-bottom: 1rem;
         font-size: 2.8rem;
+        text-shadow: 0px 1px 4px #3b3b3b;
     }
 
     .contacts button {
@@ -131,6 +138,7 @@
         border: none;
         border-radius: 50px;
         text-transform: capitalize;
+        cursor: pointer;
     }
 
     .contacts button:hover {
@@ -171,7 +179,7 @@
     @media screen and (max-width: 1250px) {
 
         .container {
-            background-image: linear-gradient(rgba(35, 113, 213, .45), rgba(35, 113, 213, 1));
+            background-image: linear-gradient(rgba(35, 113, 213, .2), rgba(35, 113, 213, 1));
             width: 100%;
             height: 100%;
             display: flex;

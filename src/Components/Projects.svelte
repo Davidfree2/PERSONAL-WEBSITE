@@ -162,7 +162,7 @@
 <style>
 
     .container {
-        background-image: linear-gradient(#f8f9fa, #f8f9fa, #f8f9fa, #f8f9fa,white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, rgba(35, 113, 213, .45));
+        background-image: linear-gradient(#f8f9fa, #f8f9fa, #f8f9fa, #f8f9fa,white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, rgba(35, 113, 213, .2));
     }
     
     .container > div {
@@ -258,7 +258,7 @@
 
     @media screen and (max-width: 1310px) {
         .container {
-            background-image: linear-gradient(#f8f9fa, #f8f9fa, #f8f9fa, #f8f9fa,white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, rgba(35, 113, 213, .45));
+            background-image: linear-gradient(#f8f9fa, #f8f9fa, #f8f9fa, #f8f9fa,white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, rgba(35, 113, 213, .2));
         }
         
         .container > div {

@@ -5,7 +5,7 @@
     <div class='helloContainer'>
         <h1>Hello! My name is David Esquerra</h1>
         <h2>Im a full stack web developer</h2>
-        <h3>Down below you'll find all my experience and skills. Make sure to use the NavBar above to get to things quickly!</h3>
+        <h3>Down below you'll find all my experience and current skills</h3>
         <button><a href='#Experience'>View My Experience</a></button>
     </div>
 </div>
