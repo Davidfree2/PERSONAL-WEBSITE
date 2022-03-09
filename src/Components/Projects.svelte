@@ -168,7 +168,8 @@
     .container > div {
         display: flex;
         justify-content: space-around;
-        height: 85vh;
+        height: 90vh;
+        overflow-y: hidden;
     }
 
     .container > div > div:nth-child(1) {
