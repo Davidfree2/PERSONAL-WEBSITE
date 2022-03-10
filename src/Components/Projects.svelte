@@ -161,6 +161,10 @@
 
 <style>
 
+    * {
+        overflow-y: hidden;
+    }
+
     .container {
         background-image: linear-gradient(#f8f9fa, #f8f9fa, #f8f9fa, #f8f9fa,white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, white, rgba(35, 113, 213, .2));
     }
@@ -168,7 +172,7 @@
     .container > div {
         display: flex;
         justify-content: space-around;
-        height: 90vh;
+        height: 92vh;
         overflow-y: hidden;
     }
 
